@@ -1,0 +1,6 @@
+pyrosim/__pycache__
+data/*
+__pycache__/*.pyc
+*.txt
+*.urdf
+*.sdf
